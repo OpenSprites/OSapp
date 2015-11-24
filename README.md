@@ -1,2 +1,2 @@
-# app
-OpenSprites app sourcecode
+# OpenSprites App
+This is the OpenSprites Android app
