@@ -1,3 +1,3 @@
 # OpenSprites App
 
-OpenSprites Android app
+OpenSprites Resources / Android app source
